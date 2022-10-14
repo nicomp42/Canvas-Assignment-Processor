@@ -1,0 +1,4 @@
+# Canvas-Assignment-Processor
+Unzip all the submissions from a Canvas download of assignment submissions. 
+This tool is designed to unzip a set of files. 
+Just enter the folder containing the zip files along with the target folder where the unzipped files should be created.
