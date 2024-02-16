@@ -102,13 +102,13 @@ namespace Canvas_Assignment_Processor
             // txtCommentary
             // 
             this.txtCommentary.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCommentary.Location = new System.Drawing.Point(21, 245);
+            this.txtCommentary.Location = new System.Drawing.Point(21, 218);
             this.txtCommentary.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtCommentary.Multiline = true;
             this.txtCommentary.Name = "txtCommentary";
             this.txtCommentary.ReadOnly = true;
             this.txtCommentary.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.txtCommentary.Size = new System.Drawing.Size(913, 293);
+            this.txtCommentary.Size = new System.Drawing.Size(1029, 275);
             this.txtCommentary.TabIndex = 5;
             // 
             // btnBrowseSourceDirectory
