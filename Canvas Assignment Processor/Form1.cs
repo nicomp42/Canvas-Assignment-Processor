@@ -1,4 +1,9 @@
-﻿using SharpCompress.Common;
+﻿/*
+ * Bill Nicholson
+ * https://github.com/nicomp42/Canvas-Assignment-Processor/
+ * User Interface
+*/
+using SharpCompress.Common;
 using SharpCompress.Readers;
 using System;
 using System.Collections.Generic;
@@ -82,6 +87,7 @@ namespace Canvas_Assignment_Processor
         {
             try
             {
+
                 using (Stream stream = File.OpenRead(fileName))
                 using (var reader = ReaderFactory.Open(stream))
                 {

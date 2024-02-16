@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Bill Nicholson
+ * https://github.com/nicomp42/Canvas-Assignment-Processor/
+ * Configuration class
+*/ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
