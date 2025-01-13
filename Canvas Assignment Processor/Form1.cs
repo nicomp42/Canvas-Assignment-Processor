@@ -2,6 +2,7 @@
  * Bill Nicholson
  * https://github.com/nicomp42/Canvas-Assignment-Processor/
  * User Interface
+ * 
 */
 using SharpCompress.Common;
 using SharpCompress.Readers;
